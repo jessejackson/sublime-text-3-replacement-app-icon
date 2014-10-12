@@ -4,7 +4,7 @@
 Sublime Text 3 Replacement App Icon
 ===
 
-An app icon I designed for Sublime Text 3 which preserves the spirit of the original, but is updated for the flat UI guidelines of Yosemite.
+An app icon I designed for Sublime Text 3 which preserves the spirit of the original, but is updated for the flat UI guidelines of OS X Yosemite.
 
 ## Usage
 
